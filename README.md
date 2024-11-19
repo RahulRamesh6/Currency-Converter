@@ -16,7 +16,7 @@ A simple and intuitive currency converter that allows users to convert between v
 Currency Converter is an ongoing project. The UI and functionality will continue to improve with future updates.
 
 ## Contributing
-If you'd like to contribute to the development of Currency Converter, feel free to fork the repository and submit a pull request. We welcome improvements, bug fixes, and new features!
+If you'd like to contribute to the development of Currency Converter, feel free to fork the repository and submit a pull request. I welcome improvements, bug fixes, and new features!
 
 ### To Contribute:
 1. Fork the repository.
